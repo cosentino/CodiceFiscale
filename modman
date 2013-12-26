@@ -1,0 +1,13 @@
+#
+# Get the last committed files from git:
+# > git log --name-status -1
+#
+
+app/code/local/Angelobiz/Codice/	app/code/local/Angelobiz/Codice/
+app/design/frontend/default/default/layout/*	app/design/frontend/default/default/layout/
+app/design/frontend/default/default/template/angelobiz_codice/	app/design/frontend/default/default/template/angelobiz_codice/
+app/design/frontend/default/default/template/checkout/onepage/shipping.phtml	app/design/frontend/default/default/template/checkout/onepage/shipping.phtml
+app/design/frontend/default/default/template/customer/address/edit.phtml	app/design/frontend/default/default/template/customer/address/edit.phtml
+app/design/frontend/default/default/template/persistent/checkout/onepage/billing.phtml	app/design/frontend/default/default/template/persistent/checkout/onepage/billing.phtml
+app/etc/modules/*	app/etc/modules/
+js/angelobiz_codice/	js/angelobiz_codice/
