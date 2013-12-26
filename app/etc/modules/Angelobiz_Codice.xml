@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+	<Angelobiz_Codice>
+		<active>true</active>
+		<codePool>local</codePool>
+	</Angelobiz_Codice>
+	</modules>
+</config>

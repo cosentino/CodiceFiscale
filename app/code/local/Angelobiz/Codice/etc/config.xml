@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<config>
+
+  <modules>
+    <Angelobiz_Codice>
+      <version>0.0.1</version>
+    </Angelobiz_Codice>
+  </modules>
+
+<frontend>
+    <layout>
+        <updates>
+            <Angelobiz_Codice>
+                <file>angelobiz_codice.xml</file>
+            </Angelobiz_Codice>
+        </updates>
+    </layout>
+</frontend>
+
+  <global>
+    <resources>
+      <Angelobiz_Codice_setup>
+        <setup>
+          <module>Angelobiz_Codice</module>
+        </setup>
+        <connection>
+          <use>core_setup</use>
+        </connection>
+      </Angelobiz_Codice_setup>
+      <Angelobiz_Codice_write>
+        <connection>
+          <use>core_write</use>
+        </connection>
+      </Angelobiz_Codice_write>
+      <Angelobiz_Codice_read>
+        <connection>
+          <use>core_read</use>		  
+        </connection>
+      </Angelobiz_Codice_read>
+    </resources>
+	<fieldsets>
+            <sales_copy_order_billing_address>
+                <cod_fisc>
+                    <to_order>*</to_order>
+                </cod_fisc>
+            </sales_copy_order_billing_address>
+            <sales_copy_order_shipping_address>
+                <cod_fisc>
+                    <to_order>*</to_order>
+                </cod_fisc>
+            </sales_copy_order_shipping_address>
+            <sales_convert_quote_address>
+              	<cod_fisc>
+                    <to_order_address>*</to_order_address>
+                    <to_customer_address>*</to_customer_address>
+				</cod_fisc>
+            </sales_convert_quote_address>
+            <sales_convert_order_address>
+               	<cod_fisc>
+				    <to_quote_address>*</to_quote_address>
+				</cod_fisc>
+            </sales_convert_order_address>
+            <customer_address>
+				<cod_fisc>
+				    <to_quote_address>*</to_quote_address>
+				</cod_fisc>
+            </customer_address>
+	</fieldsets>
+  </global>
+</config>
