@@ -39,7 +39,7 @@
      * Set event observer to copy data from shipping address to billing
      * @param element
      */
-    OrderReviewController.prototype.setCopyElement : function(element) {
+    OrderReviewController.prototype.setCopyElement = function(element) {
         if (element) {
             this._copyElement = element;
             Event.observe(element, 'click', this._copyShippingToBilling.bind(this));
