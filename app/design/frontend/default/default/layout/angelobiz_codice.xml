@@ -14,7 +14,7 @@
 
     <paypal_express_review translate="label">
         <reference name="head">            
-            <action method="addItem"><type>skin_js</type><name>angelobiz_codice/review.js</name></action>
+            <action method="addJs"><script>angelobiz_codice/review.js</script></action>
         </reference>        
     </paypal_express_review>
 
