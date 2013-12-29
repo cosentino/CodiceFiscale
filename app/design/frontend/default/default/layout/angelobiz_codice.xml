@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <layout version="0.1.0">
-    
+
     <default>
         <reference name="head">
             <action method="addJs"><script>angelobiz_codice/form.js</script></action>
@@ -13,10 +13,8 @@
     </default>
 
     <paypal_express_review translate="label">
-        <reference name="before_body_end">
-            <block type="page/html_head" name="jsfooter" as="jsfooter" template="angelobiz_codice/jsfooter.phtml">
-                <action method="addJs"><script>angelobiz_codice/review.js</script></action>
-            </block>
+        <reference name="head">            
+            <action method="addItem"><type>skin_js</type><name>angelobiz_codice/review.js</name></action>
         </reference>        
     </paypal_express_review>
 
