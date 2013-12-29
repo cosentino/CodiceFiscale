@@ -12,10 +12,4 @@
         </reference>
     </default>
 
-    <paypal_express_review translate="label">
-        <reference name="head">            
-            <action method="addJs"><script>angelobiz_codice/review.js</script></action>
-        </reference>        
-    </paypal_express_review>
-
 </layout>
