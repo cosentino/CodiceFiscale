@@ -6,10 +6,12 @@
  * --------------------------------
  * Overwrite the original syncWithBilling method defined in
  * /skin/frontend/base/default/js/checkout/review.js
- *
- * Copy data from shipping address to billing
  **/
  if (typeof OrderReviewController != 'undefined') {
+    
+    /**
+     * Copy data from shipping address to billing
+     */
     OrderReviewController.prototype._copyShippingToBilling = function (event) {
         if (!this._copyElement) {
             return;
@@ -30,6 +32,18 @@
         }
         if (event) {
             this._updateOrderSubmit(true);
+        }
+    };
+
+    /**
+     * Set event observer to copy data from shipping address to billing
+     * @param element
+     */
+    OrderReviewController.prototype.setCopyElement : function(element) {
+        if (element) {
+            this._copyElement = element;
+            Event.observe(element, 'click', this._copyShippingToBilling.bind(this));
+            this._copyShippingToBilling();
         }
     };
 }
