@@ -5,7 +5,7 @@
  * Time: 14:32
  * --------------------------------
  * Overwrite the original syncWithBilling method defined in
- * skin/frontend/base/default/js/opcheckout.js
+ * /skin/frontend/base/default/js/opcheckout.js
  **/
 if (typeof Shipping != 'undefined') {
 
