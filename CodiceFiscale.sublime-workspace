@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/design/frontend/default/default/template/checkout/onepage/shipping.phtml",
+			"settings":
+			{
+				"buffer_size": 13100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowr",
+				"Convert Case: Lower Case"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"term",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"np",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"npm ",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"npm install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"node insta",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"nstall",
+				"Package Control: Install Package"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"uuid",
+				"Generate UUID v4"
+			],
+			[
+				"uui",
+				"Generate UUID v4"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"op",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 216.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marcello/Progetti/pixi.js/Gruntfile.js",
+		"/Users/marcello/Progetti/CosentinoShop/skin/frontend/default/celebrity/css/local.css",
+		"/Users/marcello/Progetti/CosentinoShop/app/design/frontend/default/celebrity/template/page/html/header.phtml",
+		"/Users/marcello/Progetti/CosentinoShop/skin/frontend/default/celebrity/css/styles.css",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/Esportazione/Prodotti/saldi/batch-del-23-12-2013/2013_12_23-prodotti-saldi-ESECUTIVO.csv",
+		"/Users/marcello/Progetti/CosentinoShop/var/import/2013_12_23-prodotti-saldi-ESECUTIVO.csv",
+		"/Users/marcello/Progetti/CosentinoShop/var/import/2013_12_23-prodotti-saldi-prova-importazione.csv",
+		"/Users/marcello/Downloads/MouseJoint/lib/Box2D.js",
+		"/Users/marcello/Progetti/CodiceFiscale/app/design/frontend/default/default/template/angelobiz_codice/jsfooter.phtml",
+		"/Users/marcello/Progetti/CodiceFiscale/app/design/frontend/default/default/layout/angelobiz_codice.xml",
+		"/Users/marcello/Progetti/CodiceFiscale/app/design/frontend/default/default/template/paypal/express/review/address.phtml",
+		"/Users/marcello/Progetti/CodiceFiscale/modman",
+		"/Users/marcello/Progetti/CodiceFiscale/js/angelobiz_codice/review.js",
+		"/Users/marcello/Progetti/CodiceFiscale/app/design/frontend/default/default/template/checkout/onepage/shipping.phtml",
+		"/Users/marcello/Progetti/CodiceFiscale/app/design/frontend/default/default/template/persistent/checkout/onepage/billing.phtml",
+		"/Users/marcello/Progetti/CodiceFiscale/js/angelobiz_codice/shipping.js",
+		"/Users/marcello/Downloads/example 1 - Basics/index.html",
+		"/Users/marcello/Progetti/CosentinoShop/.gitignore",
+		"/Users/marcello/Downloads/downloader.php",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/template/celebritymagento/1938408-celebrity-magento-theme/www/skin/frontend/default/celebrity/css/styles.css",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/template/celebritymagento/1938408-celebrity-magento-theme/www/skin/frontend/default/celebrity/css/local.css",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/Esportazione/Prodotti/saldi/batch-del-23-12-2013/2013_12_23-prodotti-saldi-esportati.csv",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/2013_12_23-prodotti-saldi-esportati.csv",
+		"/Users/marcello/Progetti/Feedback/README.md",
+		"/Users/marcello/Progetti/Feedback/app/locale/it_IT/template/email/feedback_new.html",
+		"/Users/marcello/Progetti/Feedback/app/locale/it_IT/template/email/fancyfeedback/feedback_new.html",
+		"/Users/marcello/Progetti/Feedback/app/locale/it_IT/template/email/fancyfeedback/feedback_reply.html",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/config.php",
+		"/Users/marcello/Progetti/CosentinoShop/.modman/Feedback/app/code/local/WebspeaksFeedback/Fancyfeedback/etc/config.xml",
+		"/Users/marcello/Progetti/Feedback/modman",
+		"/Users/marcello/Progetti/Feedback/package.xml",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/local.xml",
+		"/Users/marcello/.bash_profile",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/estensioni_per_magento/FancyFeedback-1.0.2.1/app/code/local/WebspeaksFeedback/Fancyfeedback/etc/system.xml",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/estensioni_per_magento/FancyFeedback-1.0.2.1/app/code/local/WebspeaksFeedback/Fancyfeedback/etc/config.xml",
+		"/Users/marcello/Progetti/FancyFeedback-1.0.2.1/package.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app/code/community/CVM/GoogleTagManager/Block/Gtm.php",
+		"/Users/marcello/Progetti/CosentinoShop/app/design/frontend/default/celebrity/template/page/html/footer.phtml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app/etc/modules/CVM_GoogleTagManager.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app/design/frontend/base/default/layout/googletagmanager.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app/code/community/CVM/GoogleTagManager/Helper/Data.php",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app/code/community/CVM/GoogleTagManager/etc/system.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/etc/adminhtml.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/etc/config.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/etc/system.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/Helper/Data.php",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/Model/Observer.php",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/design/frontend/base/default/layout/googletagmanager.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/design/frontend/base/default/template/googletagmanager/gtm.phtml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/code/community/CVM/GoogleTagManager/Block/Gtm.php",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/app/etc/modules/CVM_GoogleTagManager.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/package.xml",
+		"/Users/marcello/Progetti/Magento_GoogleTagManager/Magento_GoogleTagManager/build.xml",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/success.phtml",
+		"/Users/marcello/Desktop/bagagli.txt",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/ga.phtml",
+		"/Users/marcello/Downloads/uploadts-1384388601-sec_Magento_Tutti_IT.xml",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/modules/Aoe_Scheduler.xml",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/estensioni_per_magento/google merchant/DataFeedManager/app/code/local/Wyomind/Datafeedmanager/sql/datafeedmanager_setup/mysql4-install-6.6.0.php",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/estensioni_per_magento/google merchant/DataFeedManager/app/code/local/Wyomind/Datafeedmanager/sql/datafeedmanager_setup/mysql4-install-4.0.0.php",
+		"/Users/marcello/Downloads/magento-cleanup.php",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/modules/Wyomind_Datafeedmanager.xml",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/modules/Wyomind_Notificationmanager.xml",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/modules/Wyomind_Licensemanager.xml",
+		"/Users/marcello/Progetti/CosentinoShop/index.php",
+		"/Users/marcello/Progetti/CosentinoShop/.htaccess",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/modules/Olegnax_Navigation.xml",
+		"/Users/marcello/Progetti/CosentinoShop/api.php",
+		"/Users/marcello/Progetti/CosentinoShop/var/log/system.log",
+		"/Users/marcello/Progetti/CosentinoShop/includes/config.php",
+		"/Users/marcello/Progetti/CosentinoShop/lib/Varien/Data/Form/Element/Link.php",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/Web/estensioni_per_magento/google merchant/DataFeedManager/lib/Varien/Data/Form/Element/Link.php",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/Web.config",
+		"/Users/marcello/Lavoro/Clienti/PaintMyRun/documenti/iscritti/edizione_2013/rimborsi/Marcello",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/12/3z5z248n0ws5plpkxfj6k6fc0000gn/T/fz3temp-1/.htaccess",
+		"/Users/marcello/Lavoro/Clienti/PaintMyRun/documenti/iscritti/edizione_2013/rimborsi/dubbi_rimborsati_punti_vendita.txt",
+		"/Users/marcello/Desktop/appunti_urlrewrite_traduzione.txt",
+		"/Users/marcello/Progetti/CosentinoShop/app/design/frontend/default/celebrity/template/checkout/cart/item/default.phtml",
+		"/Users/marcello/Progetti/CosentinoShop/skin/frontend/default/celebrity/js/script.js",
+		"/Users/marcello/Lavoro/Clienti/PaintMyRun/documenti/iscritti/edizione_2013/rimborsi/Messaggio rimborso PayPal",
+		"/Users/marcello/Progetti/CosentinoShop/var/import/2013_10_10-prodotti-traduzione-ESECUTIVO.csv",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/web/esportazione/Prodotti/traduzione/batch-del-2013-09-22-solo-AI/2013_09_23_prodotti_tradotti_esecutivo.csv",
+		"/Users/marcello/Desktop/index.html",
+		"/Users/marcello/Lavoro/Clienti/PaintMyRun/documenti/iscritti/count.csv",
+		"/Volumes/EOS_DIGITAL/DCIM/101CANON/HDR_0787.SH",
+		"/Volumes/EOS_DIGITAL/DCIM/101CANON/HDR_0789.SH",
+		"/Users/marcello/Desktop/.htaccess",
+		"/Users/marcello/Desktop/MOM/local.xml",
+		"/Users/marcello/Desktop/MOM/trace.txt",
+		"/Users/marcello/Desktop/MOM/progress.txt",
+		"/Users/marcello/Desktop/ordine.txt",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/web/esportazione/Prodotti/2013-09-29-eliminazione-vecchi-prodotti/selezionati_per_eliminazione.csv",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/web/esportazione/Prodotti/2013-09-29-eliminazione-vecchi-prodotti/pronto_per_importazione.csv",
+		"/Users/marcello/Progetti/CosentinoShop/.idea/vcs.xml",
+		"/Users/marcello/Progetti/CosentinoShop/.idea/workspace.xml",
+		"/Users/marcello/Progetti/CosentinoShop/.idea/encodings.xml",
+		"/Users/marcello/Progetti/CosentinoShop/app/etc/config.xml",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/web/Backups/2013_09_29_PrePuliziaCatalogo/1380442357_db.sql",
+		"/Users/marcello/Progetti/CosentinoShop/app/code/local/Mage/Core/Model/Session/Abstract/Varien.php",
+		"/Users/marcello/Lavoro/Clienti/CosentinoShop/web/esportazione/Prodotti/Eliminazione fine estate 2013/pronto_per_importazione.csv",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/bower_components/requirejs/package.json",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/bower_components/jquery/composer.json",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/bower_components/jquery/component.json",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/bower_components/jquery/bower.json",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/bower_components/jquery/.bower.json",
+		"/Users/marcello/Progetti/Prove/Yeoman/.bowerrc",
+		"/Users/marcello/Progetti/Prove/Yeoman/app/scripts/hello.coffee",
+		"/Users/marcello/Progetti/Prove/Yeoman/templates/layouts/default.hbs",
+		"/Users/marcello/Progetti/Prove/Yeoman/Gruntfile.js",
+		"/Users/marcello/Progetti/Prove/Yeoman/templates/pages/index.hbs",
+		"/Users/marcello/Progetti/Prove/Yeoman/templates/partials/header.hbs",
+		"/Users/marcello/Progetti/Prove/Yeoman/templates/pages/mypage.hbs",
+		"/Users/marcello/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/marcello/Progetti/Prove/Yeoman/bower.json",
+		"/Users/marcello/Desktop/export_all_products (2).csv",
+		"/Users/marcello/Progetti/Prove/Yeoman/npm-debug.log",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/stylesheets/base.css",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/stylesheets/styles.css",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/stylesheets/skeleton.css",
+		"/Users/marcello/Progetti/Prove/nodetest.js",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/javascripts/skeleton-key.js",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/functions.php",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/javascripts/filterable.pack.js",
+		"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton/assets/javascripts/disabled/filterable.js",
+		"/Users/marcello/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/marcello/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/marcello/Library/Application Support/Sublime Text 2/Packages/Web Inspector/swi.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/marcello/Progetti/Magento_GoogleTagManager/src/app",
+			"",
+			" - ",
+			"/Users/marcello/Progetti/PaintMyRun/wp-content/themes/super-skeleton",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"product-image em",
+			".product-image em",
+			"price-b",
+			"speci",
+			"special-price",
+			"header",
+			",\\n",
+			"QEI8001/Q-276SAND",
+			"^[0]\\.",
+			"^(0)\\.",
+			"^0\\.",
+			"^\",",
+			",\\n",
+			",  \\n",
+			", \\n",
+			",\\n",
+			"billing-address-select",
+			"A       ",
+			"\"US\"",
+			"US",
+			"\"IT\"",
+			"base",
+			"settings",
+			"adminhtml_fancyfeedback",
+			"google_tag_params",
+			">\n",
+			"{{",
+			"{",
+			"$output",
+			"dataLay",
+			"_getDynamicRemarketingData",
+			"remark_tags",
+			"guessMethod",
+			"home",
+			"_getDynamicRemarketingData",
+			"guessMethod",
+			"processHome",
+			"ecomm_prodid",
+			"processProduct",
+			"ecomm",
+			"size",
+			"price",
+			"SetEnv MAGE_IS_DEVELOPER_MODE true",
+			"MAGE_IS_DEVELOPER_MODE",
+			"mod_p",
+			"errors",
+			"Wyomindnotificationmanageradvertise",
+			"title",
+			"-->\n",
+			"MAGE_RUN_CODE",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"cortu",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"http://cosentinoshop.com",
+			"href",
+			"</a> <a",
+			"IfModule",
+			"404",
+			"totals",
+			"shopping-cart-totals-table",
+			"en",
+			"related-products-list",
+			".product-view button.btn-cart > span",
+			"celebrity_carousel_next",
+			"–",
+			"-",
+			" – ",
+			".00",
+			"	",
+			"SQLSTATE[HY000]: General error: 1030 Got error -1 from storage engine - ERROR ON RECORD",
+			"SQLSTATE[HY000]: General error: 1030 Got error -1 from storage engine - DELETE FROM catalog_product_entity WHERE entity_id = ?",
+			"?",
+			"\" ",
+			"00.",
+			"localhost",
+			"cosentinoshop.dev",
+			"<?",
+			"cosentino",
+			"4,24",
+			"22",
+			"bower",
+			"default",
+			"name",
+			"]>\n",
+			"name",
+			"grunticon",
+			"matchdep",
+			"mountFolder",
+			"initConfig",
+			"yeomanConfig",
+			"yeoman.app",
+			"livereload",
+			"livere",
+			",\n",
+			"usemin",
+			"assem",
+			"ERR",
+			"22 Settembre",
+			"filterable",
+			"usr",
+			"path",
+			" ",
+			"450",
+			"', '",
+			"<table style=\"width: 100%;\" border=\"0\" cellspacing=\"10px\">\n	<tbody>\n		<tr>\n			<td width=\"40%\"><img src=\"{{media url=\"wysiwyg/fattura/fattura-logo-footer.jpg\"}}\" alt=\"\" /></td>\n			<td width=\"60%\" style=\"color: #423219; font-style: italic; font-size: 8pt;\" align=\"right\">\n				<b>Cosentino S.R.L.</b><br />\n				Via Fantaguzzi 9 - 47521 Cesena (FC) - Italia<br />\n				Cap.Soc. i.v. € 40.000 - P.I.e CF: 03842570404<br />\n				info@cosentinoshop.com &nbsp;&nbsp;&nbsp; www.cosentinoshop.com\n			</td>\n		</tr>\n	</tbody>\n</table>",
+			"align",
+			"destina",
+			"{{item_option_data_value}}",
+			"##",
+			"#",
+			" style=\"text-align: right;\"",
+			"border-bottom: 1px solid #e16421;",
+			"method",
+			"align=\"right\" ",
+			"IMG",
+			":"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",\"\"\\n",
+			"/en",
+			"/it",
+			"/it\\",
+			"/it",
+			"/en",
+			"</a>\\n <a",
+			"</a>/n <a",
+			"</a>\\n <a",
+			"-",
+			" - ",
+			" – ",
+			"",
+			" ",
+			"",
+			"6 Ottobre",
+			"",
+			"0",
+			" 0",
+			" ",
+			"{{item_data_sku}}",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/design/frontend/default/default/template/checkout/onepage/shipping.phtml",
+					"settings":
+					{
+						"buffer_size": 13100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1570,
+								1570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 322.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 198.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true
+}
