@@ -78,4 +78,4 @@ CodFiscUpdater.prototype = {
     {
         this._checkRequired();
     }
-}
+};
